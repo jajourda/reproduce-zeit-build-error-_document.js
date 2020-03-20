@@ -33,7 +33,7 @@ const useStyles = makeStyles({
     const classes = useStyles();
     return (
       <Container>
-        <h1>test h1</h1>
+        <h1>test h1 post git integration</h1>
         <Paper className={classes.root}>
           <Table className={classes.table} aria-label="simple table">
             <TableHead>
